@@ -3,7 +3,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: linear-gradient(to top, rgba(70, 206, 131, 0.6), rgba(58, 34, 194, 0.6)), url(/assets/images/backgroud.jpg);
+    background: linear-gradient(to top, rgba(70, 206, 131, 0.6), rgba(58, 34, 194, 0.6)), url(./assets/images/backgroud.jpg);
     user-select: none;
 }
 
